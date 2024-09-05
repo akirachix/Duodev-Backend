@@ -3,3 +3,4 @@ lib64/
 lib/
 db.sqlite3
 duodev/
+__pycache__
