@@ -4,3 +4,6 @@ lib/
 db.sqlite3
 duodev/
 __pycache__
+*.pyc
+*.pot
+*.log
