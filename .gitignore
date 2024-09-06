@@ -1,4 +1,4 @@
-/vrtual_env/
+/vrtual_env
 *.py[cod]
 __pycache__/
 *.sqlite3
